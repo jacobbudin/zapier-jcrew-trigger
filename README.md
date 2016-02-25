@@ -17,7 +17,7 @@ Let Zapier constantly refresh the product page for you and alert you when an ite
 2. Click "Make a New Zap".
 3. As your first action, choose "Code by Zapier".
 	1. Run Python
-	2. Copy and paste the code in [`jcrew.py`] into the code area.
+	2. Copy and paste the code in [`jcrew.py`](https://raw.githubusercontent.com/jacobbudin/zapier-jcrew-trigger/master/jcrew.py) into the code area.
 		1. Modify the product ID, size, and color to match your desired item.
 			- Note: The product ID is item number beneath the product's title on the product's page.
 	3. Test and continue.
