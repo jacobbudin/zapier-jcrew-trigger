@@ -19,7 +19,7 @@ Let Zapier constantly refresh the product page for you and alert you when an ite
 	1. Run Python
 	2. Copy and paste the code in [`jcrew.py`](https://raw.githubusercontent.com/jacobbudin/zapier-jcrew-trigger/master/jcrew.py) into the code area.
 		1. Modify the product ID, size, and color to match your desired item.
-			- Note: The product ID is item number beneath the product's title on the product's page.
+			- Note: The product ID is the item number shown either: beneath the product's title on the product's page or in the product details section.
 	3. Test and continue.
 4. As your second action, choose "SMS by Zapier" (or an alternative method to alert you that your item is now in stock), and set it up.
 5. Lastly, add a filter in between these two actions. You only want the second action to occur if and only if the item is in stock.
