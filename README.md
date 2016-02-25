@@ -16,7 +16,7 @@ Let Zapier constantly refresh the product page for you and alert you when an ite
 1. Log-in to Zapier.
 2. Click "Make a New Zap".
 3. As your first action, choose "Code by Zapier".
-	1. Run Python
+	1. Choose "Run Python".
 	2. Copy and paste the code in [`jcrew.py`](https://raw.githubusercontent.com/jacobbudin/zapier-jcrew-trigger/master/jcrew.py) into the code area.
 		1. Modify the product ID, size, and color to match your desired item.
 			- Note: The product ID is the item number shown either: beneath the product's title on the product's page or in the product details section.
@@ -28,7 +28,9 @@ Let Zapier constantly refresh the product page for you and alert you when an ite
 If you choose the SMS action, you'll receive a message when the product becomes in stock. On free accounts, Zapier runs trigger actions once every 15 minutes, so you should be notified within 15 minutes of your item becoming available.
 
 ## Author
+
 [Jacob Budin](http://www.jacobbudin.com)
 
 ## License
+
 MIT License
