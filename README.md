@@ -4,6 +4,8 @@ A Zapier trigger to monitor J.Crew product availability
 
 ## Why
 
+![Example SMS](https://cloud.githubusercontent.com/assets/428195/13309033/f474836e-db46-11e5-8bf5-7bfc084c6bcd.png)
+
 Let Zapier constantly refresh the product page for you and alert you when an item is in stock while you watch Netflix.
 
 ## Prerequisites
