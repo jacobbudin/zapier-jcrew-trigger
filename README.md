@@ -25,7 +25,7 @@ Let Zapier constantly refresh the product page for you and alert you when an ite
 	3. Test and continue.
 4. As your second action, choose "SMS by Zapier" (or an alternative method to alert you that your item is now in stock), and set it up.
 5. Lastly, add a filter in between these two actions. You only want the second action to occur if and only if the item is in stock.
-	1. Choose "Is Available", "(Text) Exactly Matches", and enter `true`.
+	1. Choose "Is Available", "(Boolean) Is true".
 
 If you choose the SMS action, you'll receive a message when the product becomes in stock. On free accounts, Zapier runs trigger actions once every 15 minutes, so you should be notified within 15 minutes of your item becoming available.
 
